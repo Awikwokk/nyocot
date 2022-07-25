@@ -13,8 +13,8 @@ global.youtube = 'https://youtube.com/channel/UCR2iLtp3jno9K9F9ObSiwbg'
 global.ownername = 'Paiz'
 global.botname ='Wdrhm-Md'
 global.donasi = {
-    ovo: '6281249086533',
-    dana: '6281249086533'
+    saweria: 'wa.me/6281249086533',
+    nomor: '081249086533'
 }
 global.packname = 'Wdrhm-Md'
 global.author = 'WhatsApp Bot'
