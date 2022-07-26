@@ -7,7 +7,7 @@ global.APIs = {
 }
 
 // Other
-global.owner = ['6281249086533']
+global.owner = ['6281249086533,6281575886399']
 global.premium = ['6281249086533']
 global.youtube = 'https://youtube.com/channel/UCR2iLtp3jno9K9F9ObSiwbg'
 global.ownername = 'Paiz'
